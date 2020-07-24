@@ -1,5 +1,8 @@
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
+
+# ![Logo](assets/images/love-running-amiresponsive.png) #
+
 ***Love Running** is a website created on the Code Institute Full Stack Software Developer level 5 Diploma course HTML5 / CSS3 modules.  The objective is to create a mobile first, responsive website using semantic HTML5 elements combined with CSS3 media queries and and understanding of CSS specificity rules.*
 
 ## Contents ##
