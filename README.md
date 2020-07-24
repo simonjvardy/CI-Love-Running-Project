@@ -1,6 +1,6 @@
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-***Project** description paragraph goes here.*
+***Love Running** is a website created on the Code Institute Full Stack Software Developer level 5 Diploma course HTML5 / CSS3 modules.  The objective is to create a mobile first, responsive website using semantic HTML5 elements combined with CSS3 media queries and and understanding of CSS specificity rules.*
 
 ## Contents ##
 
@@ -34,20 +34,6 @@
     - [Acknowledgements](#acknowledgements)
 
 ## UX (User Experience) ##
-
-## Project Goals ##
-
-The **goal** of this project is to build a website which allows a local coffee shop to better manage their business, minimise revenue loses and comply with social distancing requirements due to the Global Covid-19 pandemic.
-
-The features on the website will:
-
-- Give customers more ways to interact with the shop (online bookings, social media, phone,  email)
-- Enable the business to better manager the flow of customers through their premises and ensure safe conditions for all.
-
-We achieve this by:
-
-- Providing an option to the customers to make their **to-go** orders online
-- Providing an option to the customers to **book a table** to prevent instances where the cafe it at full capacity and social distancing is not maintained.
 
 ## User Goals ##
 
